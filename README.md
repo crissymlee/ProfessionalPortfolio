@@ -4,7 +4,7 @@ Thank you for your interest. This is where I house all of the projects and small
 
 
 Currently you can find the following types:
-   *Microsoft Excel - Visual Basic for Applications
-   *Python (including Matplotlib, flask, APIs and Pandas)
-   *SQL (including SQLAlchemy)
+*Microsoft Excel - Visual Basic for Applications
+*Python (including Matplotlib, flask, APIs and Pandas)
+*SQL (including SQLAlchemy)
    
